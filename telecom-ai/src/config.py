@@ -1,0 +1,5 @@
+LLM_MODEL = "gpt-4o-mini"
+LLM_TEMPERATURE = 0.3
+EMBEDDING_MODEL = "text-embedding-3-small"
+RECURSION_LIMIT = 20
+MEMORY_K = 4

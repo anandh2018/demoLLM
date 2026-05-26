@@ -1,0 +1,9 @@
+langgraph
+langchain
+langchain-openai
+langchain-community
+openai
+faiss-cpu
+tiktoken
+python-dotenv
+streamlit
